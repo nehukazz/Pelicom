@@ -427,9 +427,7 @@ hr {
         transform: none;    }
 
 
-    #tituloprincipal {
-        margin-left: 42px;
-    }
+    
    
 
     .carousel-caption {
@@ -471,7 +469,7 @@ hr {
        
         
         position: absolute;
-        width: 30%;
+        width: 40%;
         transition: all 0.5s;
         margin-left: -70%;
         margin-top: 15%;
